@@ -1,8 +1,8 @@
 # Kernel locking vs atomic
 
 Sources:
-https://dit.unitn.it/~abeni/RTOS/2014/locking.pdf?utm_source=chatgpt.com
-chatgpt
+- https://dit.unitn.it/~abeni/RTOS/2014/locking.pdf?utm_source=chatgpt.com
+- chatgpt
 
 ## Intro
 Before kernel version 2.6 the kernel would not switch task until current task
