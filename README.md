@@ -4,3 +4,6 @@ Documentation of my learning progress with low level linux concepts and the modu
 ## Chapters
 - [Kernel locking/atomic](locking_atomic.md)
 - [Interrupts](interrupts.md)
+
+## Terminology and Abbreviations
+UMA | Unified Memory Architecture
